@@ -1,0 +1,6 @@
+[package]
+name = "travis-example-rs"
+version = "0.1.0"
+authors = ["computermouth"]
+
+[dependencies]
